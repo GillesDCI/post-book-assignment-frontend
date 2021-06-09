@@ -37,6 +37,12 @@ This project assumes you've already had experience with:
 1. Make a POST request to `post/newpost`
 2. Add the new item to the backend.  
 
+## Bonus - exercise (optional)
+- Link to bonus exercise when you're ready doing the bonus of post-book-assignment. 
+  [Bonus](./BONUS.md) 
+
+
+
 
 
 
